@@ -25,7 +25,7 @@ const Mailliink = styled.p`
   padding: 0;
   margin-bottom: 1rem;
   font-size: 1.2rem;
-  color:black;
+  color:rgb(6, 88, 115);
 
  
 `
@@ -35,7 +35,7 @@ const NameHeader = styled.h1`
   margin-bottom: 0;
   color: #ffffff;
     border-radius: 1em 0 1em 0;
-    background-image: linear-gradient( -100deg,rgb(0, 140, 186),rgba(255,250,150,0.8) 100%,rgba(255,250,150,0.25) );
+    background-image: linear-gradient( -100deg,rgb(96, 160, 181),rgba(253, 254, 255, 0.8) 100%,rgba(255,250,150,0.25) );
 `
 const LandingBio = () => (
   <StaticQuery
