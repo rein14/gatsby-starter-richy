@@ -48,7 +48,7 @@ const LandingBio = () => (
         <img alt='' style={{'borderRadius':'100px','max-width': '50%'}} src='https://media-exp1.licdn.com/dms/image/C4E03AQHjIYJQTSnnTQ/profile-displayphoto-shrink_200_200/0?e=1586995200&v=beta&t=_DBAshYMVhXilUgGUq0oUtGAmJFggv9AT1XjkevxtgE'></img>
 
           <NameHeader>{data.site.siteMetadata.title}</NameHeader>
-          <Description style={{'font-weight':'bold'}}>(software engineer)</Description>
+          <Description style={{'font-weight':'bold'}}>(Creative Introvert/Software Engineer)</Description>
           <Description>{data.site.siteMetadata.subtitle}</Description>
         </Container>
       </OuterContainer>
