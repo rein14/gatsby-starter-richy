@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Starter Julia
+  Gatsby Starter Richy
 </h1>
 
 [GatsbyJS](https://www.gatsbyjs.org/) is a free and open source static website builder build on React. It's one implementation of the [JAMstack](https://jamstack.org/) idea which creates high speed webpages.
@@ -60,11 +60,11 @@ This starter ships with the main Gatsby configuration files you might need to ge
 
 1.  **Create a Gatsby site.**
 
-    Use the Gatsby CLI to create a new site, specifying the julia starter.
+    Use the Gatsby CLI to create a new site, specifying the richy starter.
 
     ```sh
-    # create a new Gatsby site using the julia starter
-    gatsby new julia-starter https://github.com/niklasmtj/gatsby-starter-julia
+    # create a new Gatsby site using the richy starter
+    gatsby new richy-starter https://github.com/niklasmtj/gatsby-starter-ricy
     ```
 
 1.  **Start developing.**
@@ -72,7 +72,7 @@ This starter ships with the main Gatsby configuration files you might need to ge
     Navigate into your new site’s directory and start it up.
 
     ```sh
-    cd julia-starter/
+    cd richy-starter/
     gatsby develop
     ```
 
@@ -82,7 +82,7 @@ This starter ships with the main Gatsby configuration files you might need to ge
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
-    Open the `julia-starter` directory in your code editor of choice and edit `src/pages/index.js` or `src/pages/blog.js`. Save your changes and the browser will update in real time!
+    Open the `richy-starter` directory in your code editor of choice and edit `src/pages/index.js` or `src/pages/blog.js`. Save your changes and the browser will update in real time!
 
 ## 🧐 What's inside?
 
