@@ -25,9 +25,8 @@ const Mailliink = styled.p`
   padding: 0;
   margin-bottom: 1rem;
   font-size: 1.2rem;
-  color:black;
-
- 
+  color:#2b7289;
+  font-weight: bold;
 `
 
 const NameHeader = styled.h1`
