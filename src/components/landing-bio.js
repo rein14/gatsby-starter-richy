@@ -57,7 +57,7 @@ const LandingBio = () => (
           <NameHeader>{data.site.siteMetadata.title}</NameHeader>
           <Description style={{'font-weight':'bold'}}>(Creative introvert/Software Engineer)</Description>
           <Description>{data.site.siteMetadata.subtitle}</Description>
-          <Mailliink>>>Send Me A Mail </Mailliink>
+          <Mailliink href="mailto:richmondnyamekye14@gmail.com?Subject=Hello%20again" target="_top">>>Send Me A Mail </Mailliink>
 
         </Container>
       </OuterContainer>
