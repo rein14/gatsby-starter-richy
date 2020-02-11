@@ -18,14 +18,14 @@ const OuterContainer = styled.div`
 const Description = styled.p`
   padding: 0;
   margin-bottom: 1rem;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
  
 `
 const Mailliink = styled.p`
   padding: 0;
   margin-bottom: 1rem;
   font-size: 1.2rem;
-  color:white;
+  color:black;
 
  
 `
@@ -57,7 +57,8 @@ const LandingBio = () => (
           <NameHeader>{data.site.siteMetadata.title}</NameHeader>
           <Description style={{'font-weight':'bold'}}>(Creative introvert/Software Engineer)</Description>
           <Description>{data.site.siteMetadata.subtitle}</Description>
-          <Mailliink>Send Me A Mail</Mailliink>
+          <Mailliink>>>Send Me A Mail </Mailliink>
+
         </Container>
       </OuterContainer>
     )}
