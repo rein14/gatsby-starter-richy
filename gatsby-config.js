@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Richie`,
-    subtitle: `I am Richmond Nyamekye, a software engineer who loves to build everything web, well, almost everything. I prefer Python/Django to solving most problems that come my way. In my free time, I try to write down my thoughts and ideas. Feel free to check it out, read and give me feedback.`,
+    subtitle: `Hi, my name is Richmond Nyameky. I'm a software engineer who loves to build everything web, well, almost everything. I prefer Python/Django to solving most problems that come my way. In my free time, I try to write down my thoughts and ideas. Feel free to check it out, read and give me feedback.`,
     description: `My personl site`,
     author: `Richmond`,
   },
