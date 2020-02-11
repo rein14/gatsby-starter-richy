@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Richie`,
-    subtitle: `Hey there, my name is Richmond Nyamekye. a software engineer from Ghana. Python/Django is where I find peace. In my free time, I try to write down my thoughts and ideas. Feel free to check it out, read and give me feedback.`,
+    subtitle: `Hey there, my name is Richmond Nyamekye, a software engineer from Ghana. Python/Django is where I find peace. In my free time, I try to write down my thoughts and ideas. Feel free to check it out, read and give me feedback.`,
     description: `My personl site`,
     author: `Richmond`,
   },
