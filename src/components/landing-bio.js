@@ -21,12 +21,14 @@ const Description = styled.p`
   font-size: 1.1rem;
  
 `
-const Mailliink = styled.p`
-  padding: 0;
-  margin-bottom: 1rem;
-  font-size: 1.2rem;
+
+const MailLink = styled.a`
   color:#2b7289;
   font-weight: bold;
+  margin-left: 15px;
+  text-decoration: none;
+  display: inline-block;
+  position: relative;
 
   ::after {
     content: "";
@@ -39,6 +41,11 @@ const Mailliink = styled.p`
     background-color: rgba(0, 0, 0, 0.8);
     transform-origin: bottom right;
     transition: transform 0.4s cubic-bezier(0.86, 0, 0.07, 1);
+  }
+  :hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
 `
 
 const NameHeader = styled.h1`
@@ -69,7 +76,7 @@ const LandingBio = () => (
           <NameHeader>{data.site.siteMetadata.title}</NameHeader>
           <Description style={{'font-weight':'bold'}}>(Creative introvert/Software Engineer)</Description>
           <Description>{data.site.siteMetadata.subtitle}</Description>
-          <Mailliink href="mailto:richmondnyamekye14@gmail.com?Subject=Hello%20again" target="_top">>>Send Me A Mail </Mailliink>
+          <MailLink href="mailto:richmondnyamekye14@gmail.com?Subject=Hello" target="_top"> >>Send Me A Mail </MailLink>
 
         </Container>
       </OuterContainer>
