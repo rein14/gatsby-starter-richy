@@ -24,7 +24,7 @@ const Description = styled.p`
 
 const MailLink = styled.a`
   color:#2b7289;
-  font-weight: bold;
+  fontWeight: bold;
   margin-left: 15px;
   text-decoration: none;
   display: inline-block;
@@ -53,7 +53,7 @@ const NameHeader = styled.h1`
   margin-bottom: 0;
   color: #ffffff;
     border-radius: 1em 0 1em 0;
-    background-image: linear-gradient( -100deg,rgb(14, 95, 121),rgba(253,254,255,0.8) 100%,rgba(255,250,150,0.25) );`
+    background-image: linear-gradient( -100deg,rgb(2, 24, 31),rgba(253,254,255,0.8) 100%,rgba(255,250,150,0.25) );`
 
     
 const LandingBio = () => (
@@ -76,7 +76,7 @@ const LandingBio = () => (
           <NameHeader>{data.site.siteMetadata.title}</NameHeader>
           <Description style={{'font-weight':'bold'}}>(Creative introvert/Software Engineer)</Description>
           <Description>{data.site.siteMetadata.subtitle}</Description>
-          <MailLink href="mailto:richmondnyamekye14@gmail.com?Subject=Hello" target="_top"> >>Send Me A Mail </MailLink>
+          <MailLink href="mailto:richmondnyamekye14@gmail.com?Subject=Hello" target="_top">>>Send Me A Mail </MailLink>
 
         </Container>
       </OuterContainer>
