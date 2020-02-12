@@ -24,7 +24,7 @@ const Description = styled.p`
 
 const MailLink = styled.a`
   color:#2b7289;
-  fontWeight: bold;
+  font-weight: bold;
   margin-left: 15px;
   text-decoration: none;
   display: inline-block;
