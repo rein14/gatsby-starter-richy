@@ -2,7 +2,7 @@
 title: "My Journey To Becoming A Professional Software Engineer"
 date: "2020-02-05"
 draft: false
-path: "/blog/example-title"
+path: "/blog/My Journey To Becoming A Professional Software Engineer"
 ---
 
 `Learning to code isn't easy`. On my journey to becoming a software developer, i've had my first share of fear and doubts. Fear, your computer science class wouldn't teach you to brace for. I wasn't always confident in my self but with some little work i've thought myself to take things a step at a time. 

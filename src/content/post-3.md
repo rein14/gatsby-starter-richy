@@ -2,9 +2,9 @@
 title: "Conventions Every Python Developer Must Follow."
 date: "2020-02-01"
 draft: false
-path: "/blog/code-example"
+path: "/blog/Conventions Every Python Developer Must Follow."
 ---
-
+ 
 ###Trying running " import this" in your python interpreter.
 
 The creators of the python language, unlike any other language sat down and came with a set of rules which every python developer or the python community must follow. They are guidelines to help every developer write more readable and understanderble code. Think of it as the "19 Pythonista Commandment".

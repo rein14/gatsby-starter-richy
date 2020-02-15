@@ -2,7 +2,7 @@
 title: "Road to Python Mastery"
 date: "2020-02-10"
 draft: false
-path: "/blog/second-title"
+path: "/blog/Road to Python Mastery"
 
 ---
 
