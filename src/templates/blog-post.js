@@ -13,7 +13,7 @@ const Content = styled.div`
 const MarkedHeader = styled.h1`
   display: inline;
   color: #ffffff;
-    border-radius: 1em 0 1em 0;
+  border-radius: 0em 0 0em 0;
     background-image: linear-gradient( -100deg,rgb(2,24,31),rgba(77, 76, 78, 0.8) 100%,rgba(255,250,150,0.25) );`
 
 const HeaderDate = styled.h3`
