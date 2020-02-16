@@ -6,7 +6,7 @@ path: "/blog/Road to Python Mastery"
 
 ---
 
-I like to think mastering programming as a skill is quite similar to mastering a physical skill like karate.
+`Learning to code isn't easy`. I like to think mastering programming as a skill is quite similar to mastering a physical skill like karate.
 
 Here, let me explain.
 
@@ -21,3 +21,5 @@ Like martial "arts" programming is more of an `art than a science`.` It's a crea
 (I swear one day I WILL create a Bob Ross-like show called The Joy of Programming… "Let's put some little curly braces over here… and here… and there.")
 
 `Mastering a skill like programming` seeps into all areas of your life. Just like building physical skills will increase confidence, so will mastering programming. It leads to a sense of accomplishment, a deep satisfaction, and confidence through recognition.
+
+`Chill!` programming can be daunting Eventually you will put the pieces all together and you will start to figure things out as you move ahead.

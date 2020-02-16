@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
     title: `Richie`,
-    subtitle: `Hey there, my name is Richmond Nyamekye, a software engineer from Ghana. Python/Django is where I find peace. In my free time, I try to write down my thoughts and ideas. Feel free to check it out and give me feedback.`,
+    subtitle: `Hey there, my name is Richmond Nyamekye, a software engineer from Ghana. Python/Django is my safe haven. In my free time, I try to write down my thoughts, ideas and things I find interesting. Feel free to check it out on my blog.`,
     description: `My personl site`,
     author: `Richmond`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
-    {
+    {  
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `markdown-pages`,
@@ -66,6 +66,6 @@ module.exports = {
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
-    // 'gatsby-plugin-offline',
+    //'gatsby-plugin-offline',
   ],
 }
