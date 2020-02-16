@@ -71,7 +71,7 @@ const LandingBio = () => (
     render={data => (
       <OuterContainer>
         <Container>
-        <img alt='' style={{'borderRadius':'100px','max-width':'50%'}} src='https://media-exp1.licdn.com/dms/image/C4E03AQHjIYJQTSnnTQ/profile-displayphoto-shrink_200_200/0?e=1586995200&v=beta&t=_DBAshYMVhXilUgGUq0oUtGAmJFggv9AT1XjkevxtgE'></img>
+        <img alt='' style={{'borderRadius':'100px','max-width':'60%'}} src='https://media-exp1.licdn.com/dms/image/C4E03AQHjIYJQTSnnTQ/profile-displayphoto-shrink_200_200/0?e=1586995200&v=beta&t=_DBAshYMVhXilUgGUq0oUtGAmJFggv9AT1XjkevxtgE'></img>
 
           <NameHeader>{data.site.siteMetadata.title}</NameHeader>
           <Description style={{'font-weight':'bold'}}>(Creative introvert/Software Engineer)</Description>
