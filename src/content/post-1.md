@@ -21,4 +21,5 @@ There's road maps but no "one true path" to mastery. Learning progress will depe
 Like martial "arts" programming is more of an art than a science.` It's a creative endeavour rather than a strictly mechanical affair. Brute force and applying 10,000 "IF this THEN that" rules might get one a job, but doesn't lead to the true joy of programming.
 
 Mastering a skill like programming seeps into all areas of your life. Just like building physical skills will increase confidence, so will mastering programming. It leads to a sense of accomplishment, a deep satisfaction, and confidence through recognition.
+
 Inspiration: Dan Bader
