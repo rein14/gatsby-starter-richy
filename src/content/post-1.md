@@ -1,19 +1,24 @@
 ---
-title: "My Journey To Becoming A Professional Software Engineer"
-date: "2020-02-05"
+title: "Road to Software Engineering Mastery"
+date: "2020-01-10"
 draft: false
-path: "/blog/My Journey To Becoming A Professional Software Engineer"
+path: "/blog/Road to Python Mastery"
+
 ---
 
-`Learning to code isn't easy`. On my journey to becoming a software developer, i've had my first share of ups and downs. Roadblocks that your computer science class wouldn't teach you to brace for. I wasn't always confident in my self but with some little work i've thought myself to take things a step at a time. 
+"Becoming a software engineer requires sacrifice a great deal of sacrifice." I like to think mastering programming as a skill is quite similar to mastering a physical skill like karate.
 
-Overtime, I've had people ask me how they can become a software developer. And my answer each and everytime is `read and practice simoultenoulsy`,`all the time.` You have to practice to the point where you feel confident enough to move on to the next step. Even ninja engineers still go over the basics from time to time. 
+Here, let me explain.
 
-`You dont have to know everything` in the software space to become a developer. Most people perceive software engineers as all knowing, and I do that find that very funny. Remember when i told you to practice, yeah, well so do season developers. Ninja coders/developers are always skimming through official documentations, books and always looking up code online. You definetly cannot put everything into your head, so prepare your mind to accept the fact that throughout your entire software career you will be looking up peoples code, skimmming through books for answers and most probably copy other peoples code.
+With both, it takes a long time to build up the right foundation. But once "muscle memory" starts kicking in, your progress can skyrocket. It's all about making it through that first rough patch of slow learning progress without losing your motivation.
 
-Prepare to `Sacrifice`. If you truly want to become a software developer, then you will have to cut back on somethings you previously did and most definetly do now in order to suceed as a professional software developer. Because now, you will be locked inside your mind trying to do things most humans would not attempt to do in their right mind do, solving problems most humans did not even know existed. So prepare to sacrifice friends, your current occupation(if you want swich careers), entertainment( `Oh yeah!` `writing code itself is entertaining`). 
+Mastering a programming language means lifelong learning. The topic is fractal—there's always a way to expand your knowledge in some obscure way. One can hit critical mass in terms of knowledge and be called an expert, but it's unlikely a single person will "know it all". 
 
-`So chill!` becoming a software engineer can be daunting. Eventually you will put the pieces all together and you will start to figure things out as you move ahead.
+A seasoned programmer acts deliberately and with an economy of movement that a beginner can't yet understand. Biological differences like age, "IQ", play less of a role. The more experienced dev still codes circles around the eager newcomer.
 
+There's road maps but no "one true path" to mastery. Learning progress will depend highly on the motivation and drive of the individual, and the peers they surround themselves with. Mentorship and community play the biggest role in becoming successful.
 
+Like martial "arts" programming is more of an art than a science.` It's a creative endeavour rather than a strictly mechanical affair. Brute force and applying 10,000 "IF this THEN that" rules might get one a job, but doesn't lead to the true joy of programming.
 
+Mastering a skill like programming seeps into all areas of your life. Just like building physical skills will increase confidence, so will mastering programming. It leads to a sense of accomplishment, a deep satisfaction, and confidence through recognition.
+Inspiration: Dan Bader
