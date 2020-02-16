@@ -1,10 +1,11 @@
 module.exports = {
   siteMetadata: {
     title: `Richie`,
-    subtitle: `Hey there, my name is Richmond Nyamekye, a software engineer from Ghana. Python/Django is my safe haven. In my free time, I try to write down my thoughts, ideas and things I find interesting. Feel free to check it out on my blog.`,
+    subtitle: `Hey there, my name is Richmond Nyamekye, a software engineer from Ghana. Python/Django is my safe haven. In my free time, I try to write down my thoughts, ideas and mostly, things I find interesting. Feel free to check it out on my blog.`,
     description: `My personl site`,
     author: `Richmond`,
   },
+
   plugins: [
     `gatsby-plugin-react-helmet`,
     {  
@@ -14,6 +15,7 @@ module.exports = {
         path: `${__dirname}/src/content`,
       },
     },
+
     {
       resolve: `gatsby-source-filesystem`,
       options: {
