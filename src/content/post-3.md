@@ -1,11 +1,11 @@
 ---
 title: "Computer Science"
-date: "2020-16-02"
+date: "2020-17-02"
 draft: false
 path: "/blog/Computer Science."
 ---
 
-Computer science is no more about computers than astronomy is about telescopes, biology about microscopes, or chemistry about beakers and test tubes. Science is not about tools. It is about how we use them, and what we find out when we do.— Michael Fellows and Ian Parberry
+Computer science is no more about computers than astronomy is about telescopes, biology about microscopes, or chemistry about beakers and test tubes. Science is not about tools. It is about how we use them, and what we find out when we do. — Michael Fellows and Ian Parberry
 
 Imagine if today without computer technology, maybe we still doing everything in a manual way and paper everywhere without a gadget, internet connection, smart device, and many things. We are living in the computer era with a new lifestyle and the computer is really helpful to human being. But if you hear the computer science degree what are you thinking about at first? During my first semester in college, I imagine if I will learn software like photoshop, flash, fixing computer hardware, and game. I was wrong because I meet mathematics, programming, basic natural science, and other unexpected subjects.
 
