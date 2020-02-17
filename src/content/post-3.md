@@ -1,3 +1,9 @@
+---
+title: "Computer Science"
+date: "2020-16-02"
+draft: false
+path: "/blog/Computer Science."
+---
 
 Computer science is no more about computers than astronomy is about telescopes, biology about microscopes, or chemistry about beakers and test tubes. Science is not about tools. It is about how we use them, and what we find out when we do.— Michael Fellows and Ian Parberry
 
