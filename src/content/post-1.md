@@ -6,7 +6,7 @@ path: "/blog/Road to Python Mastery"
 
 ---
 
-"Becoming a software engineer requires sacrifice a great deal of sacrifice." I like to think mastering programming as a skill is quite similar to mastering a physical skill like karate.
+"Becoming a software engineer requires a great deal of sacrifice." I like to think mastering programming as a skill is quite similar to mastering a physical skill like karate.
 
 Here, let me explain.
 
