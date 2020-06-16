@@ -32,12 +32,12 @@ Programming Languages
 Books about specific programming languages that I enjoyed. There’s often free resources available online but sometimes it’s nice to just buy a book that takes you through many aspects of a language. Some of these books are great reads even if you’re not interested in the language specifically, as they teach you important universal concepts.
 
    JavaScript
-   '''
+   ```
    • Effective JavaScript by David Herman
    •	JavaScript: The Good Parts by Douglas Crockford
-   '''
+   ```
    Python
-   '''
+   ```
    •	Writing Idiomatic Python by Jeff Knupp
    •	Effective Python by Bret Slatkin
    •	Python Cookbook, 3rd Ed. by David Beazley and Brian Jones
@@ -47,19 +47,19 @@ Books about specific programming languages that I enjoyed. There’s often free 
    •  Dan-Bader-Python-Tricks_-A-Buffet-of-Awesome-Python-Features-Dan-Bader-2017
    •  Data Science in python
 
-   '''
+   ```
 CompSci fundamentals, algorithms, and math
 This stuff is important. Languages and frameworks come and go but the foundations remain largely static. Re-visit these every once in a while.
-   '''
+   ```
    •	The Algorithm Design Manual by Steven S. Skiena
    •	Algorithms by Dasgupta, Papadimitriou, and Vazirani
    •	Introduction to Algorithms by Thomas H. Cormen
    •	Concrete Mathematics by Ronald L. Graham
-   '''
+   ```
 
 Postmortems
 The best software engineering war stories around. Get inspired by reading about successful or failed software projects that others have worked on. These books let you learn from the experiences and careers of some of the best people in the field.
-   '''
+   ```
    •	Coders at Work by Peter Seibel
    •	FoxTales by Kerry Nietz
    •	Masters of Doom by David Kushner
@@ -68,5 +68,5 @@ The best software engineering war stories around. Get inspired by reading about 
    •	The Future Was Here: The Commodore Amiga by Jimmy Maher
    •	The Making of Karateka by Jordan Mechner
    •	The Making of Prince of Persia by Jordan Mechner
-'''
+```
 Inspired by D. Bader
