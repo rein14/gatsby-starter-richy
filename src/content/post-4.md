@@ -7,6 +7,14 @@ path: "/blog/My reading list."
 Fun fact, i hate video tutorials.
 Reading books is one of the best ways to improve your craftsmanship and to become a better software engineer. This is a continuously updated list with my favourite programming books, sorted by topic. I link to the ebook version where possible but most books should be available made from dead trees as well.
 
+###Self developement 
+
+```
+   •	It doesn't have to be crazy at work by by David Heinemeier Hansson and Jason
+   •	Rework by by David Heinemeier Hansson and Jason
+   •  Remote, Office Not Required by Jason Fried
+```
+
 
 ###Architecture & System Design
 
@@ -82,4 +90,3 @@ The best software engineering war stories around. Get inspired by reading about 
    •	The Making of Karateka by Jordan Mechner
    •	The Making of Prince of Persia by Jordan Mechner
 ```
-Inspired by D. Bader
