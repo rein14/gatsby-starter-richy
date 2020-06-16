@@ -52,7 +52,7 @@ Books about specific programming languages that I enjoyed. There’s often free 
    •	Two Scoops of Django by Daniel and Audrey Roy Greenfeld
    •	Fluent Python by Luciano Ramalho
    •	Automate the Boring Stuff with Python by Al Sweigart
-   •  Dan-Bader-Python-Tricks_-A-Buffet-of-Awesome-Python-Features-Dan-Bader-2017
+   •  Dan-Bader-Python-Tricks_-A-Buffet-of-Awesome-Python-Features-Dan Bader
    •  Data Science in python
 
    ```
