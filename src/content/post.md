@@ -1,8 +1,8 @@
 ---
-title: "Conventions Every Python Developer Must Follow."
+title: "My reading List."
 date: "2020-02-01"
 draft: false
-path: "/blog/Conventions Every Python Developer Must Follow."
+path: "/blog/My reading list."
 ---
  
 ###Trying running " import this" in your python interpreter.
