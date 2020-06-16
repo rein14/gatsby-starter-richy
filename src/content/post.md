@@ -1,6 +1,6 @@
 ---
 title: "My reading List."
-date: "2020-06-16"
+date: "2020-06-15"
 draft: false
 path: "/blog/My reading list."
 ---
@@ -10,15 +10,15 @@ Reading books is one of the best ways to improve your craftsmanship and to becom
 
 Architecture & System Design
 How to build reliable software that works well.
-
+```
    •	Release It! by Michael T. Nygard
    •	The Architecture of Open Source Applications by Amy Brown
    •	The Architecture of Open Source Applications, Volume II by Amy Brown
    •	The Performance of Open Source Applications by Tavish Armstrong
-
+```
 Craftsmanship
 Books about best practices, code quality and professionalism. Every single one of these books is fantastic and I got so much out of them. If you don’t know which area to focus on first then start here.
-
+```
    •	Clean Code by Robert C. Martin
    •	Team Geek by Brian W. Fitzpatrick
    •	The Clean Coder by Robert C. Martin
@@ -27,7 +27,7 @@ Books about best practices, code quality and professionalism. Every single one o
    •	HBR’s 10 Must Reads on Managing Yourself
    •	Better: A surgeon’s notes on performance by Atul Gawande
    •	Code Complete by Steve McConnell
-
+```
 Programming Languages
 Books about specific programming languages that I enjoyed. There’s often free resources available online but sometimes it’s nice to just buy a book that takes you through many aspects of a language. Some of these books are great reads even if you’re not interested in the language specifically, as they teach you important universal concepts.
 
