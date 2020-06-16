@@ -11,11 +11,6 @@ Reading books is one of the best ways to improve your craftsmanship and to becom
 ###Self developement 
 Books about business, general conduct and discpline
 
->It doesn't have to be crazy at work by by DHH and Jason
->Rework by by DHH and Jason
->Remote: Office Not Required by Jason Fried
->HBR’s 10 Must Reads on Managing Yourself
-
 ```
 It doesn't have to be crazy at work by by DHH and Jason
 Rework by by DHH and Jason
