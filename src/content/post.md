@@ -10,6 +10,10 @@ Reading books is one of the best ways to improve your craftsmanship and to becom
 
 Architecture & System Design
 How to build reliable software that works well.
+```javascript
+const foo = bar
+console.log(foo);
+```
 ```
    •	Release It! by Michael T. Nygard
    •	The Architecture of Open Source Applications by Amy Brown
