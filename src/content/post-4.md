@@ -1,10 +1,10 @@
 ---
-title: "My reading list as software dev."
-date: "2020-06-15"
+title: "My reading list as a software dev."
+date: "2020-06-16"
 draft: false
 path: "/blog/My reading list."
 ---
-Fun fact, i hate going through video tutorials.
+Fun fact, i hate video tutorials.
 Reading books is one of the best ways to improve your craftsmanship and to become a better software engineer. This is a continuously updated list with my favourite programming books, sorted by topic. I link to the ebook version where possible but most books should be available made from dead trees as well.
 
 
