@@ -55,13 +55,13 @@ JavaScript
 Python
 ```
 • Writing Idiomatic Python by Jeff Knupp
-•	Effective Python by Bret Slatkin
-•	Python Cookbook, 3rd Ed. by David Beazley and Brian Jones
-•	Two Scoops of Django by Daniel and Audrey Roy Greenfeld
-•	Fluent Python by Luciano Ramalho
-•	Automate the Boring Stuff with Python by Al Sweigart
-•  Dan-Bader-Python-Tricks_-A-Buffet-of-Awesome-Python-Features-Dan Bader
-•  Data Science in python
+• Effective Python by Bret Slatkin
+• Python Cookbook, 3rd Ed. by David Beazley and Brian Jones
+• Two Scoops of Django by Daniel and Audrey Roy Greenfeld
+• Fluent Python by Luciano Ramalho
+• Automate the Boring Stuff with Python by Al Sweigart
+• Dan-Bader-Python-Tricks_-A-Buffet-of-Awesome-Python-Features-Dan Bader
+• Data Science in python
 
 ```
 
@@ -70,10 +70,10 @@ Python
 
 This stuff is important. Languages and frameworks come and go but the foundations remain largely static. Re-visit these every once in a while.
    ```
-   •	The Algorithm Design Manual by Steven S. Skiena
-   •	Algorithms by Dasgupta, Papadimitriou, and Vazirani
-   •	Introduction to Algorithms by Thomas H. Cormen
-   •	Concrete Mathematics by Ronald L. Graham
+   • The Algorithm Design Manual by Steven S. Skiena
+   • Algorithms by Dasgupta, Papadimitriou, and Vazirani
+   • Introduction to Algorithms by Thomas H. Cormen
+   • Concrete Mathematics by Ronald L. Graham
    ```
 
 
@@ -81,12 +81,12 @@ This stuff is important. Languages and frameworks come and go but the foundation
 
 The best software engineering war stories around. Get inspired by reading about successful or failed software projects that others have worked on. These books let you learn from the experiences and careers of some of the best people in the field.
    ```
-   •	Coders at Work by Peter Seibel
-   •	FoxTales by Kerry Nietz
-   •	Masters of Doom by David Kushner
-   •	Postmortems from Game Developer by Austin Grossman
-   •	Showstopper by G. Pascal Zachary
-   •	The Future Was Here: The Commodore Amiga by Jimmy Maher
-   •	The Making of Karateka by Jordan Mechner
-   •	The Making of Prince of Persia by Jordan Mechner
+   • Coders at Work by Peter Seibel
+   • FoxTales by Kerry Nietz
+   • Masters of Doom by David Kushner
+   • Postmortems from Game Developer by Austin Grossman
+   • Showstopper by G. Pascal Zachary
+   • The Future Was Here: The Commodore Amiga by Jimmy Maher
+   • The Making of Karateka by Jordan Mechner
+   • The Making of Prince of Persia by Jordan Mechner
 ```
