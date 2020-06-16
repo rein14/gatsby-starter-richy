@@ -1,5 +1,5 @@
 ---
-title: "My reading list as a software dev."
+title: "My Ultimate Reading List"
 date: "2020-06-16"
 draft: false
 path: "/blog/My reading list."
