@@ -12,6 +12,7 @@ Reading books is one of the best ways to improve your craftsmanship and to becom
 ```
    •	It doesn't have to be crazy at work by by David Heinemeier Hansson and Jason
    •	Rework by by David Heinemeier Hansson and Jason
+   
    •  Remote: Office Not Required by Jason Fried
 ```
 
