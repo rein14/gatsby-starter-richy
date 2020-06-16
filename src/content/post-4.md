@@ -7,6 +7,7 @@ path: "/blog/My reading list."
 Fun fact, i hate going through video tutorials, everything tutorial that involves me watching videos.
 Reading books is one of the best ways to improve your craftsmanship and to become a better software engineer. This is a continuously updated list with my favourite programming books, sorted by topic. I link to the ebook version where possible but most books should be available made from dead trees as well.
 
+
 ###Architecture & System Design
 
 How to build reliable software that works well.
@@ -17,6 +18,8 @@ How to build reliable software that works well.
    •	The Architecture of Open Source Applications, Volume II by Amy Brown
    •	The Performance of Open Source Applications by Tavish Armstrong
 ```
+
+
 ###Craftsmanship
 
 Books about best practices, code quality and professionalism. Every single one of these books is fantastic and I got so much out of them. If you don’t know which area to focus on first then start here.
@@ -30,6 +33,8 @@ Books about best practices, code quality and professionalism. Every single one o
    •	Better: A surgeon’s notes on performance by Atul Gawande
    •	Code Complete by Steve McConnell
 ```
+
+
 ###Programming Languages
 
 Books about specific programming languages that I enjoyed. There’s often free resources available online but sometimes it’s nice to just buy a book that takes you through many aspects of a language. Some of these books are great reads even if you’re not interested in the language specifically, as they teach you important universal concepts.
@@ -51,6 +56,8 @@ Books about specific programming languages that I enjoyed. There’s often free 
    •  Data Science in python
 
    ```
+
+
 ###CompSci fundamentals, algorithms, and math
 
 This stuff is important. Languages and frameworks come and go but the foundations remain largely static. Re-visit these every once in a while.
@@ -60,6 +67,7 @@ This stuff is important. Languages and frameworks come and go but the foundation
    •	Introduction to Algorithms by Thomas H. Cormen
    •	Concrete Mathematics by Ronald L. Graham
    ```
+
 
 ###Postmortems
 
