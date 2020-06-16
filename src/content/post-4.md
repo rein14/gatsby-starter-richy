@@ -9,6 +9,7 @@ Reading books is one of the best ways to improve your craftsmanship and to becom
 
 ###Self developement 
 Books about business, general conduct and discpline
+`• Rework by by David Heinemeier Hansson and Jason`
 ```
 • It doesn't have to be crazy at work by by David Heinemeier Hansson and Jason
 • Rework by by David Heinemeier Hansson and Jason
@@ -81,7 +82,7 @@ This stuff is important. Languages and frameworks come and go but the foundation
 
 The best software engineering war stories around. Get inspired by reading about successful or failed software projects that others have worked on. These books let you learn from the experiences and careers of some of the best people in the field.
    ```
-   • Coders at Work by Peter Seibel
+   '• Coders at Work by Peter Seibel
    • FoxTales by Kerry Nietz
    • Masters of Doom by David Kushner
    • Postmortems from Game Developer by Austin Grossman
