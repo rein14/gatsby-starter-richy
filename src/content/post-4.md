@@ -4,7 +4,7 @@ date: "2020-06-16"
 draft: false
 path: "/blog/My reading list."
 ---
-![An old rock in the desert](https://miro.medium.com/max/3240/1*L1Aa_3KKwLEWYtA1AXnAKw.jpeg)
+![reading list ](https://miro.medium.com/max/3240/1*L1Aa_3KKwLEWYtA1AXnAKw.jpeg)
 Fun fact, i hate video tutorials.
 Reading books is one of the best ways to improve your craftsmanship and to become a better software engineer. This is a continuously updated list with my favourite programming books.Most of the books listed below are free to download but you should try as much possible to buy them at least, if you can.
 
