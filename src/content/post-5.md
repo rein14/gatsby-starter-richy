@@ -14,6 +14,8 @@ I don’t have a fix for this
 
 Oh, But I fixed it
 
+I dont belong here
+
 These are the kind of moments that make you doubt your credibility as a programmer. You struggle to recognize your value, and negatively compare your skills against the skills of others. It’s normal that these things happen. It’s also normal that you recognize all these patterns and generate a fix for it all.
 
 It isn’t surprising that you feel lost. Early in the process of learning anything, it is a pretty normal thing. In the software space we are constantly learning new things, developing new ideas, refactoring algorithm, etc. So you see, it’s pretty normal for you to get lost sometimes, but the question is “how you make a comeback”.
