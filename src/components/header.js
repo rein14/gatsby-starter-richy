@@ -132,7 +132,6 @@ const Header = ({ siteTitle }) => (
           GitHub
         </GitHubLink>
         <MailLink href="mailto:richmondnyamekye14@gmail.com?Subject=Hello" target="_top">Mail Me</MailLink>
-        <CurriculumLink href="mailto:richmondnyamekye14@gmail.com?Subject=Hello" target="_top">CV</CurriculumLink>
       </p>
     </Content>
   </SiteHeader>
