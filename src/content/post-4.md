@@ -4,7 +4,7 @@ date: "2020-06-16"
 draft: false
 path: "/blog/My reading list."
 ---
-![reading list y](https://miro.medium.com/max/3240/1*L1Aa_3KKwLEWYtA1AXnAKw.jpeg)
+![](https://miro.medium.com/max/3240/1*L1Aa_3KKwLEWYtA1AXnAKw.jpeg)
 
 
 Fun fact, i hate video tutorials.

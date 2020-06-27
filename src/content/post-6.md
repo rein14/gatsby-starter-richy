@@ -4,7 +4,7 @@ date: "2020-06-27"
 draft: false
 path: "/blog/Remote developer life."
 ---
-![remote gif](https://remotehub.io/storage/newsletters/screens/MuoK07C48iviBsvTxOV8WBk0NSBZdpeyZnlSh7Kj.gif)
+![](https://remotehub.io/storage/newsletters/screens/MuoK07C48iviBsvTxOV8WBk0NSBZdpeyZnlSh7Kj.gif)
 
 
 Work is great. But working out of location is much better. Working remotely is totally different from working in a four wall office. I don't think you completely grasp the difference until you really start working remote. For someone like me who never worked in a remote setting, obviously the start wouldn’t be smooth and many challenges will come along. But when the dust settled, I got better. 
