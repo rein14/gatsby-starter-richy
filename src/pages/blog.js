@@ -24,7 +24,7 @@ const MarkerHeader = styled.h3`
     background-image: linear-gradient( -100deg,rgb(2,24,31),rgba(77, 76, 78, 0.8) 100%,rgba(255,250,150,0.25) );`
 
 const ReadingTime = styled.h5`
-  text-align:justify;
+  text-align: justify;
   color: #606060;
 `
 
