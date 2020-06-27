@@ -19,6 +19,7 @@ const Description = styled.p`
   padding: 0;
   margin-bottom: 1rem;
   font-size: 1.1rem;
+  text-align: justify;
  
 `
 
