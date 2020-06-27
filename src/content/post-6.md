@@ -4,9 +4,8 @@ date: "2020-06-27"
 draft: false
 path: "/blog/Remote developer life."
 ---
-![reading list y](https://remotehub.io/storage/newsletters/screens/MuoK07C48iviBsvTxOV8WBk0NSBZdpeyZnlSh7Kj.gif)
+![remote gif](https://remotehub.io/storage/newsletters/screens/MuoK07C48iviBsvTxOV8WBk0NSBZdpeyZnlSh7Kj.gif)
 
-Life as a digital nomad (remote developer)
 Work is great. But working out of location is much better. Working remotely is totally different from working in a four wall office. I don't think you completely grasp the difference until you really start working remote. For someone like me who never worked in a remote setting, obviously the start wouldn’t be smooth and many challenges will come along. But when the dust settled, I got better. I'll explain;
 
 Setting your own work hours; I can work in my underwear if I want, yeah you heard right. I can work till 3 am and then take the whole day off. I always strive to impress my clients, but I get shit done in my own way. Some days that means working 3 hours. Some days I forget to keep track of time (those days are awesome and shitty at the same time). Actually, the best benefit I find for me here, is, my powenaps. Afternoon powernaps, to me is the best time to think over things in your sleep.
