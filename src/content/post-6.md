@@ -1,5 +1,5 @@
 ---
-title: "Life As A Digital Nomad(Remote developer)"
+title: "Life As A Remote developer"
 date: "2020-06-27"
 draft: false
 path: "/blog/Remote developer life."
