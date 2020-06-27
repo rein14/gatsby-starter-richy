@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Richie`,
-    subtitle: `Hey there, my name is Richmond Nyamekye, a software engineer from Ghana. I believe the web is the most fertile ground. In my free time, I try to write down my thoughts, ideas and mostly, things I find interesting. Read my blog!`,
+    subtitle: ``,
     description: `Richmond Nyamekye`,
     author: `Richmond`,
   },

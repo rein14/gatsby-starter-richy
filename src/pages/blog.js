@@ -26,7 +26,6 @@ const MarkerHeader = styled.h3`
 const ReadingTime = styled.h5`
   display: inline;
   color: #606060;
-  text-align: justify;
 `
 
 const IndexPage = ({ data }) => {
