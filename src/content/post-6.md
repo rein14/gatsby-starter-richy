@@ -4,6 +4,7 @@ date: "2020-06-27"
 draft: false
 path: "/blog/Remote developer life."
 ---
+![reading list y](https://giphy.com/gifs/dog-computer-ChpOyeacGmpQk?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fcdn.embedly.com%2Fwidgets%2Fmedia.html%3Fsrc%3Dhttps%3A%2F%2Fgiphy.com%2Fembed%2FChpOyeacGmpQk%2Ftwitter%2Fiframe&%3Burl=https%3A%2F%2Fgiphy.com%2Fgifs%2Fdog-computer-ChpOyeacGmpQk&%3Bimage=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FChpOyeacGmpQk%2Fgiphy.gif&%3Bkey=a19fcc184b9711e1b4764040d3dc5c07&%3Btype=text%2Fhtml&%3Bschema=giphy)
 
 Life as a digital nomad (remote developer)
 Work is great. But working out of location is much better. Working remotely is totally different from working in a four wall office. I don't think you completely grasp the difference until you really start working remote. For someone like me who never worked in a remote setting, obviously the start wouldn’t be smooth and many challenges will come along. But when the dust settled, I got better. I'll explain;
