@@ -17,4 +17,4 @@ Not commuting can **negatively impact** you as a remote developer as well. Lack 
 
 **Communication;** It's critical to remember that regardless of whether you are working remote, you should communicate with whoever you are working for. This is a great thing since it places an attention on building joint effort into day-to-day processes.
 
-If you are thinking about remote work, the most productive way you can do it is to implement a *daily routine* for yourself. Test the waters, see what works best for you. If works for you, go for it.
+If you are thinking about remote work, the most productive way you can do it is to implement a **daily routine** for yourself. Test the waters, see what works best for you. If works for you, go for it.
