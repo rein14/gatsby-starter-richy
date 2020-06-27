@@ -8,6 +8,7 @@ path: "/blog/My reading list."
 
 
 Fun fact, i hate video tutorials.
+
 Reading books is one of the best ways to improve your craftsmanship and to become a better software engineer. This is a continuously updated list with my favourite programming books.Most of the books listed below are free to download but you should try as much possible to buy them at least, if you can.
 
 ###Self developement 
