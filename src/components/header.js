@@ -129,10 +129,11 @@ const Header = ({ siteTitle }) => (
         <HomeLink to="/">Richie</HomeLink>
         <NavLink to="/blog">Blog</NavLink>
         <GitHubLink href="https://github.com/rein14">
-          GitHub
+          Git
         </GitHubLink>
+        <CurriculumLink href="https://www.linkedin.com/in/reinhardt-richmond-nyamekye-5896127a/">Ln</CurriculumLink>
+
         <MailLink href="mailto:richmondnyamekye14@gmail.com?Subject=Hello" target="_top">Mail Me</MailLink>
-        <CurriculumLink>In</CurriculumLink>
       </p>
     </Content>
   </SiteHeader>
