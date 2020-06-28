@@ -72,9 +72,9 @@ const LandingBio = () => (
       <OuterContainer>
         <Container>
         <img alt='' style={{'borderRadius':'100px','max-width':'50%'}} src='https://media-exp1.licdn.com/dms/image/C4D03AQGOj_yzwYFQIg/profile-displayphoto-shrink_200_200/0?e=1597881600&v=beta&t=yPMEAj8VLIuYCuQeyycEiDGNDEQ8RIqtKS4XiyrCHRo'></img>
-
+        
+          <Description style={{'font-weight':'bold'}}>(Creative introvert)</Description>
           <NameHeader>{data.site.siteMetadata.title}</NameHeader>
-          <Description style={{'font-weight':'bold'}}>(Creative introvert/Software Engineer)</Description>
           <Description>{data.site.siteMetadata.subtitle}</Description>
           {/*<MailLink href="mailto:richmondnyamekye14@gmail.com?Subject=Hello" target="_top">>>Send Me A Mail </MailLink>*/}
 
