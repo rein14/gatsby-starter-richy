@@ -72,7 +72,7 @@ const LandingBio = () => (
     render={data => (
       <OuterContainer>
         <Container>
-<img alt='' style={{'borderRadius':'100px','max-width':'70%'}} src='https://avatars.githubusercontent.com/u/8625033?s=400&u=62eea254a73c46af79de517088e8c8ac641998d5&v=4'></img>
+<img alt='' style={{'borderRadius':'100px','max-width':'50%'}} src='https://avatars.githubusercontent.com/u/8625033?s=400&u=62eea254a73c46af79de517088e8c8ac641998d5&v=4'></img>
           <NameHeader>{data.site.siteMetadata.title}</NameHeader>
           <Description style={{'font-weight':'bold'}}>(Creative introvert)</Description>
           <Description>{data.site.siteMetadata.subtitle}</Description>
