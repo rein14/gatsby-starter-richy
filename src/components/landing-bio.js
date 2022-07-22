@@ -72,7 +72,7 @@ const LandingBio = () => (
     render={data => (
       <OuterContainer>
         <Container>
-<img alt='' style={{'borderRadius':'100%','max-width':'30%', 'max-height':'50%'}} src='https://media-exp1.licdn.com/dms/image/C4E03AQGjn2Z-CZ3Oww/profile-displayphoto-shrink_800_800/0/1658400915878?e=1663804800&v=beta&t=mqoekZbcE65zDW6rnFc7u3FXom2qWyHYhcmprUOh9EQ'></img>
+<img alt='' style={{'borderRadius':'100%','max-width':'40%', 'max-height':'50%'}} src='https://media-exp1.licdn.com/dms/image/C4E03AQGjn2Z-CZ3Oww/profile-displayphoto-shrink_800_800/0/1658400915878?e=1663804800&v=beta&t=mqoekZbcE65zDW6rnFc7u3FXom2qWyHYhcmprUOh9EQ'></img>
           <NameHeader>{data.site.siteMetadata.title}</NameHeader>
           <Description style={{'font-weight':'bold'}}>(Creative introvert)</Description>
           <Description>{data.site.siteMetadata.subtitle}</Description>
